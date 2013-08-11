@@ -1,5 +1,7 @@
 # Unsorted
 
+[![Code Climate](https://codeclimate.com/github/serv/unsorted.png)](https://codeclimate.com/github/serv/unsorted)
+
 A simple gem that gives you an unsorted numeric array
 
 ## Installation
