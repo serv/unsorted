@@ -18,7 +18,21 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+#### Testing the gem out in IRB
+
+`irb`
+
+`require 'rubygems' # => true`
+
+`require 'unsorted' # => true`
+
+You are ready to use Unsorted gem in IRB
+
+#### Get an unsorted array of a given size
+
+`Unsorted.get(10) # => [10, 7, 6, 4, 5, 9, 1, 3, 2, 8]`
+
+The lowest number in the unsorted array is 1. The highest number in the unsorted array is the size.
 
 ## Contributing
 
